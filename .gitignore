@@ -1,0 +1,24 @@
+# Credenciais -- nunca versionar
+.env
+
+# Dados brutos e intermediarios (grandes, baixados pelo pipeline)
+data/
+*.zip
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema operacional / editores
+.DS_Store
+.vscode/
+.idea/
