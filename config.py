@@ -54,6 +54,7 @@ ANO = "2025"
 # o link fica .../file/d/ESTE_TRECHO_E_O_ID/view -> copie o ID e cole abaixo.
 DRIVE_FILE_ID = "15vGhmvT0Ux2crqHy_YeRoRiaiCkdB88A"
 
+
 # Tamanho do bloco de leitura/insercao (numero de linhas por vez).
 # Ler tudo de uma vez estouraria a memoria; por isso lemos em "pedacos".
 TAMANHO_BLOCO = 50_000
