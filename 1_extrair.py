@@ -36,7 +36,7 @@ def baixar_zip_do_drive(destino: Path) -> None:
         log.info("Zip ja existe em '%s' -- pulando download.", destino)
         return
 
-    if not DRIVE_FILE_ID or DRIVE_FILE_ID == "15vGhmvT0Ux2crqHy_YeRoRiaiCkdB88A":
+    if not DRIVE_FILE_ID or DRIVE_FILE_ID == "1sMv7C4YcgJvt9XGMrsNCfsLk2HB14L7P":
         raise RuntimeError(
             "DRIVE_FILE_ID nao foi configurado em config.py. Copie o ID do "
             "arquivo compartilhado no Google Drive e cole na variavel "

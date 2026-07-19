@@ -52,7 +52,7 @@ ANO = "2025"
 # ID do arquivo no Google Drive:
 # Como obter: no Drive clique em "Compartilhar" -> "Qualquer pessoa com o link";
 # o link fica .../file/d/ESTE_TRECHO_E_O_ID/view -> copie o ID e cole abaixo.
-DRIVE_FILE_ID = "15vGhmvT0Ux2crqHy_YeRoRiaiCkdB88A"
+DRIVE_FILE_ID = "1sMv7C4YcgJvt9XGMrsNCfsLk2HB14L7P"
 
 
 # Tamanho do bloco de leitura/insercao (numero de linhas por vez).
